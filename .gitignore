@@ -15,3 +15,6 @@ __pycache__/
 *.swo
 *~
 venv/
+blog-api-server-key.pem
+aws/
+.github/credentials.md
