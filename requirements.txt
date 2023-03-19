@@ -1,5 +1,5 @@
 django
 djangorestframework
-psycopg2
+psycopg2-binary
 python-dotenv
 coreapi

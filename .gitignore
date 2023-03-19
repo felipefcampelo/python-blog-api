@@ -5,17 +5,16 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
-*.pyc
-
-# Django specific
 *.log
 *.pot
-*.pyc
 *.db
-db.sqlite3
-
-# Virtual environment
-venv/
-
-# Environment variables
+.vscode/
+*.sqlite3
 .env
+*.swp
+*.swo
+*~
+venv/
+blog-api-server-key.pem
+aws/
+.github/credentials.md
